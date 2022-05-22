@@ -7,7 +7,7 @@ description: Website for the Efficient Learning and Graph Algorithm Techniques f
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: https://bayesomicslab.github.io/
+baseurl: /
 
 # site social media and other links
 links:

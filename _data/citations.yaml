@@ -1,85 +1,15 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1161/CIRCULATIONAHA.121.054285
-  title: AtheroSpectrum Reveals Novel Macrophage Foam Cell Gene Signatures Associated
-    With Atherosclerotic Cardiovascular Disease Risk
+- id: 10.1089/cmb.2012.0084
+  title: 'HapCompass: A Fast Cycle Basis Algorithm for Accurate Haplotype Assembly
+    of Sequence Data'
   authors:
-  - Chuan Li
-  - Lili Qu
-  - Alyssa J. Matz
-  - Patrick A. Murphy
-  - Yongmei Liu
-  - Ani W. Manichaikul
   - Derek Aguiar
-  - Stephen S. Rich
-  - David M. Herrington
-  - David Vu
-  - W. Craig Johnson
-  - Jerome I. Rotter
-  - Wendy S. Post
-  - Anthony T. Vella
-  - Annabelle Rodriguez-Oquendo
-  - Beiyan Zhou
-  publisher: Circulation
-  date: '2022-01-18'
-  link: https://doi.org/gnt2zh
-  orcid: 0000-0001-9166-8783
-  page: derek-aguiar
-- id: isbn:9781450385268
-  title: Proceedings of the Eighteenth International Conference on Artificial Intelligence
-    and Law.
-  authors:
-  - Juliano Maranh??o
-  - Special Interest Group on Artificial Intelligence Association for Computing Machinery
-  publisher: ''
-  date: '2021-01-01'
-  link: https://dl.acm.org/action/showBook?doi=10.1145/3462757
-  orcid: 0000-0001-9166-8783
-  page: derek-aguiar
-- id: doi:10.1145/3462757.3466101
-  title: Case-level prediction of motion outcomes in civil litigation
-  authors:
-  - Devin J. McConnell
-  - James Zhu
-  - Sachin Pandya
-  - Derek Aguiar
-  publisher: Proceedings of the Eighteenth International Conference on Artificial
-    Intelligence and Law
-  date: '2021-06-21'
-  link: https://doi.org/gp6v7k
-  orcid: 0000-0001-9166-8783
-  page: derek-aguiar
-- id: doi:10.1101/2021.05.20.444959
-  title: Differentially methylated regions and methylation QTLs for teen depression
-    and early puberty in the Fragile Families Child Wellbeing Study
-  authors:
-  - Roberta De Vito
-  - Isabella N Grabski
-  - Derek Aguiar
-  - Lisa M Schneper
-  - Archit N Verma
-  - Juan E Castillo-Fernandez
-  - Colter Mitchell
-  - Jordana Tzenova Bell
-  - Sara McLanahan
-  - Daniel A Notterman
-  - Barbara E Engelhardt
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-05-21'
-  link: https://doi.org/gp6v7m
-  orcid: 0000-0001-9166-8783
-  page: derek-aguiar
-- id: doi:10.1007/978-1-60761-854-6_22
-  title: 'Practical Computational Methods for Regulatory Genomics: A cisGRN-Lexicon
-    and cisGRN-Browser for Gene Regulatory Networks'
-  authors:
   - Sorin Istrail
-  - Ryan Tarpine
-  - Kyle Schutter
-  - Derek Aguiar
-  publisher: Methods in Molecular Biology
-  date: '2010-01-01'
-  link: https://doi.org/c63h8h
-  orcid: 0000-0001-9166-8783
-  page: derek-aguiar
+  publisher: Journal of Computational Biology
+  date: '2012-06-01'
+  link: https://doi.org/gp6v7p
+  image: https://www.derekaguiar.com/images/hcgraph.png
+  tags:
+  - computational biology

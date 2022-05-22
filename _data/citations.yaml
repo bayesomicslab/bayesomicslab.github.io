@@ -1,64 +1,85 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1161/CIRCULATIONAHA.121.054285
+  title: AtheroSpectrum Reveals Novel Macrophage Foam Cell Gene Signatures Associated
+    With Atherosclerotic Cardiovascular Disease Risk
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-  - knowledge graphs
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+  - Chuan Li
+  - Lili Qu
+  - Alyssa J. Matz
+  - Patrick A. Murphy
+  - Yongmei Liu
+  - Ani W. Manichaikul
+  - Derek Aguiar
+  - Stephen S. Rich
+  - David M. Herrington
+  - David Vu
+  - W. Craig Johnson
+  - Jerome I. Rotter
+  - Wendy S. Post
+  - Anthony T. Vella
+  - Annabelle Rodriguez-Oquendo
+  - Beiyan Zhou
+  publisher: Circulation
+  date: '2022-01-18'
+  link: https://doi.org/gnt2zh
+  orcid: 0000-0001-9166-8783
+  page: derek-aguiar
+- id: isbn:9781450385268
+  title: Proceedings of the Eighteenth International Conference on Artificial Intelligence
+    and Law.
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - Juliano Maranh??o
+  - Special Interest Group on Artificial Intelligence Association for Computing Machinery
+  publisher: ''
+  date: '2021-01-01'
+  link: https://dl.acm.org/action/showBook?doi=10.1145/3462757
+  orcid: 0000-0001-9166-8783
+  page: derek-aguiar
+- id: doi:10.1145/3462757.3466101
+  title: Case-level prediction of motion outcomes in civil litigation
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-  - type: preprint
-    link: https://doi.org/10.7287/peerj.preprints.3100v1
-  - type: manubot
-    link: https://greenelab.github.io/scihub-manuscript/
-  - type: source
-    link: https://github.com/greenelab/scihub-manuscript
-    text: Manuscript source
-  - type: source
-    link: https://github.com/greenelab/scihub
-    text: Analyses source
+  - Devin J. McConnell
+  - James Zhu
+  - Sachin Pandya
+  - Derek Aguiar
+  publisher: Proceedings of the Eighteenth International Conference on Artificial
+    Intelligence and Law
+  date: '2021-06-21'
+  link: https://doi.org/gp6v7k
+  orcid: 0000-0001-9166-8783
+  page: derek-aguiar
+- id: doi:10.1101/2021.05.20.444959
+  title: Differentially methylated regions and methylation QTLs for teen depression
+    and early puberty in the Fragile Families Child Wellbeing Study
+  authors:
+  - Roberta De Vito
+  - Isabella N Grabski
+  - Derek Aguiar
+  - Lisa M Schneper
+  - Archit N Verma
+  - Juan E Castillo-Fernandez
+  - Colter Mitchell
+  - Jordana Tzenova Bell
+  - Sara McLanahan
+  - Daniel A Notterman
+  - Barbara E Engelhardt
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-05-21'
+  link: https://doi.org/gp6v7m
+  orcid: 0000-0001-9166-8783
+  page: derek-aguiar
+- id: doi:10.1007/978-1-60761-854-6_22
+  title: 'Practical Computational Methods for Regulatory Genomics: A cisGRN-Lexicon
+    and cisGRN-Browser for Gene Regulatory Networks'
+  authors:
+  - Sorin Istrail
+  - Ryan Tarpine
+  - Kyle Schutter
+  - Derek Aguiar
+  publisher: Methods in Molecular Biology
+  date: '2010-01-01'
+  link: https://doi.org/c63h8h
+  orcid: 0000-0001-9166-8783
+  page: derek-aguiar

@@ -1,6 +1,6 @@
 ---
 name: Marjan Hosseini
-image: images/member.jpg
+image: images/marjan.jpg
 description: Ph.D. Student
 role: phd
 links:

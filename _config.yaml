@@ -11,9 +11,9 @@ baseurl: /
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
-  github: your-lab
+  email: derek.aguiar@uconn.edu
+  google-scholar: https://scholar.google.com/citations?user=kXRSW2QAAAAJ&hl=en&oi=ao
+  github: https://github.com/bayesomicslab
   twitter: YourLabHandle
   instagram: YourLabHandle
   youtube: YourLabChannel
@@ -23,6 +23,9 @@ links:
 # automatic citations
 auto-cite:
   plugins:
+    - name: orcid
+      input:
+        - ../_data/orcid.yaml
     - name: sources
       input:
         - ../_data/sources.yaml

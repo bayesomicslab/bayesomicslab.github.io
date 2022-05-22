@@ -1,12 +1,12 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: EL GATO Lab
+description: Website for the Efficient Learning and Graph Algorithm Techniques for Omics (EL GATO) lab
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: /lab-website-template
+baseurl: /bayesomicslab.github.io
 
 # site social media and other links
 links:

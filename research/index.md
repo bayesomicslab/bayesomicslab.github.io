@@ -18,4 +18,5 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+#{% include list.html data="citations" component="citation" style="rich" %}
+{% include list.html data="citations" component="citation" filter="page: derek-aguiar" %}

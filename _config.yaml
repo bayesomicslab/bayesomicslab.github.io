@@ -25,11 +25,11 @@ auto-cite:
   plugins:
     - name: orcid
       input:
-        - ../_data/orcid.yaml
+        - /_data/orcid.yaml
 #    - name: sources
 #      input:
-#        - ../_data/sources.yaml
-  output: ../_data/citations.yaml
+#        - /_data/sources.yaml
+  output: /_data/citations.yaml
 
 # default front matter parameters for markdown files
 defaults:

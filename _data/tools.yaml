@@ -1,47 +1,60 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: BIISQ
+  subtitle: Version 1.0.0
+  group: computational biology
+  image: images/biisq.png
+  link: https://github.com/bee-hive/BIISQ
+  description: Bayesian nonparametric discovery of Isoforms and Individual Specific Quantification with BIISQ.
   tags:
     - software
 
-- title: Cool Web Server
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+
+- title: HapCompass
+  subtitle: Version 0.8.2
+  group: computational biology
+  image: images/tumorhap.png
+  link: https://www.brown.edu/Research/Istrail_Lab/hapcompass.php
+  description: HapCompass: fast cycle basis algorithms for accurate diploid and polyploid haplotype assembly.
   tags:
     - software
+
+
+- title: Tractatus
+  subtitle: Version 0.0.1
+  group: computational biology
+  image: images/tractatus.png
+  link: https://www.brown.edu/Research/Istrail_Lab/tractatus.php
+  description: Tractatus: an exact and subquadratic algorithm for inferring identity-by-descent multi-shared haplotype tracts.
+  tags:
+    - software
+
+
+- title: Code for Nematostella vectensis reference transcriptome
+  subtitle: Version 1.0.0
+  group: computational biology
+  image: images/nematostella.png
+  link: https://evodevojournal.biomedcentral.com/articles/10.1186/2041-9139-4-16#App1
+  description: A quantitative reference transcriptome for Nematostella vectensis earlyembryonic development: a pipeline for de novo assembly in emergingmodel systems.
+  tags:
+    - software
+
+
+- title: DELISHUS
+  subtitle: Version 0.1.0
+  group: computational biology
+  image: images/delish.png
+  link: https://www.brown.edu/Research/Istrail_Lab/del_dl.php
+  description: DELISHUS: an e cient and exact algorithm for genome-wide detection of deletion polymorphism in autism.
+  tags:
+    - software
+
+
+- title: CYRENE
+  subtitle: Version 1.0.0
+  group: computational biology
+  image: images/cyrene.png
+  link: https://www.brown.edu/Research/Istrail_Lab/cyrene.php
+  description: CYRENE cis-Regulatory Genome Browser.
+  tags:
+    - software
+
+

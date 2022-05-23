@@ -5,18 +5,15 @@ nav:
   tooltip: Software, datasets, and more
 ---
 
-# <i class="fas fa-tools"></i>Tools
+# <i class="fas fa-tools"></i>Tools and Resources
 
 {% include search-info.html %}
 
 {% include section.html %}
 
-## Featured
+## Software
 
-{% include list.html component="card" data="tools" filters="group: featured" %}
+{% include list.html component="card" data="tools" filters="group: computational biology" %}
 
 {% include section.html %}
 
-## More
-
-{% include list.html component="card" data="tools" filters="group: more" style="small" %}

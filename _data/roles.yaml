@@ -11,7 +11,7 @@ phd:
   text: PhD Student
   
 phdcollab:
-  icon: fas fa-backpack
+  icon: fa-light fa-backpack
   text: Collaborating PhD Student
 
 masters:

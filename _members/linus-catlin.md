@@ -6,4 +6,4 @@ role: cat
 group: alum
 ---
 
-Linus was a jumping, sleeping, and snuggling aficionado.
+Linus was a jumping, sleeping, and snuggling aficionado. 

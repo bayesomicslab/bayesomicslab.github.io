@@ -53,6 +53,12 @@ Our team includes graduate, undergraduate, and even high school researchers! Fin
   include list.html
   data="members"
   component="portrait"
+  filters="role: phdcollab, group: current"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: dog, group: current"
 %}
 {%
@@ -93,6 +99,12 @@ Our team includes graduate, undergraduate, and even high school researchers! Fin
   data="members"
   component="portrait"
   filters="role: highschool, group: alum"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: phdcollab, group: alum"
 %}
 {%
   include list.html

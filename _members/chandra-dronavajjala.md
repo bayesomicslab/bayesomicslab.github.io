@@ -1,6 +1,6 @@
 ---
 name: Chandra Dronavajjala
-image: images/sadhusky.png
+image: images/chandra.png
 description: Ph.D. Student
 role: phd
 group: current

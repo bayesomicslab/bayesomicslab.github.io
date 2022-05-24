@@ -1,7 +1,7 @@
 ---
 name: Sybille Legitime
 image: images/sybille.jpg
-description: M.S. Student
+description: Masters Student
 role: masters
 group: current
 links:

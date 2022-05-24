@@ -1,7 +1,7 @@
 ---
 name: Shariq Khan
 image: images/shariq.jpg
-description: M.S. Student
+description: Masters Student
 role: masters
 group: alum
 links:

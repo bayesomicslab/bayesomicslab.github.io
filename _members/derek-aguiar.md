@@ -3,8 +3,6 @@ name: Derek Aguiar
 image: images/daguiar_c.png
 description: PI
 role: pi
-aliases:
-  - Prof. Derek
 links:
   home-page: www.derekaguiar.com
   email: derek.aguiar@uconn.edu

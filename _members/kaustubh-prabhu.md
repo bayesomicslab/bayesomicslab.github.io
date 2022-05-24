@@ -1,7 +1,7 @@
 ---
 name: Kaustubh Prabhu
 image: images/Kaustubh-Prabhu.jpg
-description: M.S. Student
+description: Masters Student
 role: masters
 group: alum
 links:

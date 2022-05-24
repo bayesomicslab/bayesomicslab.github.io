@@ -1,7 +1,7 @@
 ---
 name: Jackie Ramirez
 image: images/jackie.jpg
-description: Ph.D. Student
+description: Masters Student
 role: masters
 group: current
 links:

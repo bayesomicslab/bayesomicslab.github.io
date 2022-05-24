@@ -29,5 +29,4 @@ Our team includes graduate, undergraduate, and even high school researchers! Fin
   component="portrait"
   filters="role: ms"
 %}
-{:.center}
 

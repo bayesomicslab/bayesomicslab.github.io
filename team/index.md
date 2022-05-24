@@ -23,45 +23,45 @@ Our team includes graduate, undergraduate, and even high school researchers! Fin
   include list.html
   data="members"
   component="portrait"
-  filters="role: postdoc; group:current"
+  filters="role: postdoc, group:current"
 %}
 {%
   include list.html
   group="current"
   component="portrait"
-  filters="role: phd; group:current"
+  filters="role: phd, group:current"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: masters; group:current"
+  filters="role: masters, group:current"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: undergrad; group:current"
+  filters="role: undergrad, group:current"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: highschool; group:current"
-%}
-{%
-  include list.html
-  data="members"
-  group="current"
-  component="portrait"
-  filters="role: dog; group:current"
+  filters="role: highschool, group:current"
 %}
 {%
   include list.html
   data="members"
   group="current"
   component="portrait"
-  filters="role: cat; group:current"
+  filters="role: dog, group:current"
+%}
+{%
+  include list.html
+  data="members"
+  group="current"
+  component="portrait"
+  filters="role: cat, group:current"
 %}
 
 # Alumni
@@ -70,41 +70,41 @@ Our team includes graduate, undergraduate, and even high school researchers! Fin
   include list.html
   data="members"
   component="portrait"
-  filters="role: postdoc; group:alum"
+  filters="role: postdoc, group:alum"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: phd; group:alum"
+  filters="role: phd, group:alum"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: masters; group:alum"
+  filters="role: masters, group:alum"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: undergrad; group:alum"
+  filters="role: undergrad, group:alum"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: highschool; group:alum"
+  filters="role: highschool, group:alum"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: dog; group:alum"
+  filters="role: dog, group:alum"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: cat; group:alum"
+  filters="role: cat, group:alum"
 %}

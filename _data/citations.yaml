@@ -1,261 +1,64 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: 10.1089/cmb.2012.0084
-  title: 'HapCompass: A Fast Cycle Basis Algorithm for Accurate Haplotype Assembly
-    of Sequence Data'
+- id: doi:10.1016/j.csbj.2020.05.017
+  title: Constructing knowledge graphs and their biomedical applications
   authors:
-  - Derek Aguiar
-  - Sorin Istrail
-  publisher: Journal of Computational Biology
-  date: '2012-06-01'
-  link: https://doi.org/gp6v7p
-  image: https://www.derekaguiar.com/images/hcgraph.png
+  - David N. Nicholson
+  - Casey S. Greene
+  publisher: Computational and Structural Biotechnology Journal
+  date: '2020-06-02'
+  link: https://doi.org/gg7m48
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  extra-links:
+  - type: manubot
+    link: https://greenelab.github.io/knowledge-graph-review/
   tags:
-  - computational biology
-  - algorithms
-  - graph theory
-- id: 10.1161/CIRCULATIONAHA.121.054285
-  title: AtheroSpectrum Reveals Novel Macrophage Foam Cell Gene Signatures Associated
-    With Atherosclerotic Cardiovascular Disease Risk
+  - knowledge graphs
+- id: doi:10.1371/journal.pcbi.1007128
+  title: Open collaborative writing with Manubot
   authors:
-  - Chuan Li
-  - Lili Qu
-  - Alyssa J. Matz
-  - Patrick A. Murphy
-  - Yongmei Liu
-  - Ani W. Manichaikul
-  - Derek Aguiar
-  - Stephen S. Rich
-  - David M. Herrington
-  - David Vu
-  - W. Craig Johnson
-  - Jerome I. Rotter
-  - Wendy S. Post
-  - Anthony T. Vella
-  - Annabelle Rodriguez-Oquendo
-  - Beiyan Zhou
-  publisher: Circulation
-  date: '2022-01-18'
-  link: https://doi.org/gnt2zh
-  image: https://bayesomicslab.github.io/images/circulation_p.png
-  tags:
-  - computational biology
-  - machine learning
-  - immunology
-- id: 10.1145/3462757.3466101
-  title: Case-level prediction of motion outcomes in civil litigation
+  - Daniel S. Himmelstein
+  - Vincent Rubinetti
+  - David R. Slochower
+  - Dongbo Hu
+  - Venkat S. Malladi
+  - Casey S. Greene
+  - Anthony Gitter
+  publisher: PLOS Computational Biology
+  date: '2019-06-24'
+  link: https://doi.org/c7np
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  repo: greenelab/meta-review
+  extra-links:
+  - type: manubot
+    link: https://greenelab.github.io/meta-review/
+  - type: source
+    link: https://github.com/greenelab/meta-review
+  - type: website
+    link: http://manubot.org/
+- id: doi:10.7554/eLife.32822
+  title: Sci-Hub provides access to nearly all scholarly literature
   authors:
-  - Devin J. McConnell
-  - James Zhu
-  - Sachin Pandya
-  - Derek Aguiar
-  publisher: Proceedings of the Eighteenth International Conference on Artificial
-    Intelligence and Law
-  date: '2021-06-21'
-  link: https://doi.org/gp6v7k
-  image: https://bayesomicslab.github.io/images/icail_small.png
-  tags:
-  - machine learning
-  - law
-- id: 10.1101/2021.05.20.444959
-  title: Differentially methylated regions and methylation QTLs for teen depression
-    and early puberty in the Fragile Families Child Wellbeing Study
-  authors:
-  - Roberta De Vito
-  - Isabella N Grabski
-  - Derek Aguiar
-  - Lisa M Schneper
-  - Archit N Verma
-  - Juan E Castillo-Fernandez
-  - Colter Mitchell
-  - Jordana Tzenova Bell
-  - Sara McLanahan
-  - Daniel A Notterman
-  - Barbara E Engelhardt
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-05-21'
-  link: https://doi.org/gp6v7m
-  image: https://bayesomicslab.github.io/images/roberta_meth.png
-  tags:
-  - computational biology
-- id: 10.1093/bioinformatics/btaa318
-  title: Combinatorial and statistical prediction of gene expression from haplotype
-    sequence
-  authors:
-  - Berk A Alpay
-  - Pinar Demetci
-  - Sorin Istrail
-  - Derek Aguiar
-  publisher: Bioinformatics
-  date: '2020-07-01'
-  link: https://doi.org/gm7gxx
-  image: https://bayesomicslab.github.io/images/exp_predict.png
-  tags:
-  - computational biology
-  - machine learning
-- id: 10.1038/s41467-018-03402-w
-  title: Bayesian nonparametric discovery of isoforms and individual specific quantification
-  authors:
-  - Derek Aguiar
-  - Li-Fang Cheng
-  - Bianca Dumitrascu
-  - Fantine Mordelet
-  - Athma A. Pai
-  - Barbara E. Engelhardt
-  publisher: Nature Communications
-  date: '2018-04-27'
-  link: https://doi.org/gdhwpx
-  image: https://bayesomicslab.github.io/images/biisq.png
-  tags:
-  - computational biology
-  - machine learning
-- id: 10.1109/CCWC54503.2022.9720799
-  title: Autoregressive Modeling of Utility Customer Outages with Deep Neural Networks
-  authors:
-  - Kingsley Udeh
-  - David W. Wanik
-  - Diego Cerrai
-  - Derek Aguiar
-  - Emmanouil Anagnostou
-  publisher: 2022 IEEE 12th Annual Computing and Communication Workshop and Conference
-    (CCWC)
-  date: '2022-01-26'
-  link: https://doi.org/gp6v76
-  image: https://bayesomicslab.github.io/images/custout.png
-  tags:
-  - machine learning
-  - time series
-  - outage prediction
-- id: 10.1093/bioinformatics/btt213
-  title: Haplotype assembly in polyploid genomes and identical by descent shared tracts
-  authors:
-  - Derek Aguiar
-  - Sorin Istrail
-  publisher: Bioinformatics
-  date: '2013-06-19'
-  link: https://doi.org/f6dkxm
-  image: https://bayesomicslab.github.io/images/compassgraph.png
-  tags:
-  - computational biology
-  - algorithms
-  - graph theory
-- id: 10.1186/2041-9139-4-16
-  title: 'A quantitative reference transcriptome for Nematostella vectensis earlyembryonic
-    development: a pipeline for de novo assembly in emergingmodel systems'
-  authors:
-  - Sarah Tulin
-  - Derek Aguiar
-  - Sorin Istrail
-  - Joel Smith
-  publisher: EvoDevo
-  date: '2013-06-03'
-  link: https://doi.org/gfzns8
-  tags:
-  - computational biology
-- id: 10.1371/journal.pone.0105097
-  title: 'Transcriptome of American Oysters, Crassostrea virginica, in Response to
-    Bacterial Challenge: Insights into Potential Mechanisms of Disease Resistance'
-  authors:
-  - Ian C. McDowell
-  - Chamilani Nikapitiya
-  - Derek Aguiar
-  - Christopher E. Lane
-  - Sorin Istrail
-  - Marta Gomez-Chiarri
-  publisher: PLoS ONE
-  date: '2014-08-14'
-  link: https://doi.org/gp6v77
-  tags:
-  - computational biology
-- id: 10.1089/cmb.2010.0288
-  title: 'The Clark Phaseable Sample Size Problem: Long-Range Phasing and Loss of
-    Heterozygosity in GWAS'
-  authors:
-  - "Bjarni V. Halld\xF3Rsson"
-  - Derek Aguiar
-  - Ryan Tarpine
-  - Sorin Istrail
-  publisher: Journal of Computational Biology
-  date: '2011-03-01'
-  link: https://doi.org/d6s875
-  image: https://bayesomicslab.github.io/images/clarkconsistgraph.png
-  tags:
-  - computational biology
-  - algorithms
-  - graph theory
-- id: 10.1007/978-3-319-05269-4_1
-  title: 'Tractatus: An Exact and Subquadratic Algorithm for Inferring Identical-by-Descent
-    Multi-shared Haplotype Tracts'
-  authors:
-  - Derek Aguiar
-  - Eric Morrow
-  - Sorin Istrail
-  publisher: Lecture Notes in Computer Science
-  date: '2014-01-01'
-  link: https://doi.org/gp6v78
-  image: https://bayesomicslab.github.io/images/tractatus.png
-  tags:
-  - computational biology
-  - algorithms
-  - graph theory
-- id: 10.1142/9789814335058_0010
-  title: 'HAPLOTYPE PHASING BY MULTI-ASSEMBLY OF SHARED HAPLOTYPES: PHASE-DEPENDENT
-    INTERACTIONS BETWEEN RARE VARIANTS'
-  authors:
-  - "BJARNI V. HALLD\xD3RSSON"
-  - DEREK AGUIAR
-  - SORIN ISTRAIL
-  publisher: Biocomputing 2011
-  date: '2010-11-01'
-  link: https://doi.org/ftkrsw
-  image: https://bayesomicslab.github.io/images/pphap.png
-  tags:
-  - computational biology
-  - algorithms
-  - graph theory
-- id: 10.1007/978-1-60761-854-6_22
-  title: 'Practical Computational Methods for Regulatory Genomics: A cisGRN-Lexicon
-    and cisGRN-Browser for Gene Regulatory Networks'
-  authors:
-  - Sorin Istrail
-  - Ryan Tarpine
-  - Kyle Schutter
-  - Derek Aguiar
-  publisher: Methods in Molecular Biology
-  date: '2010-01-01'
-  link: https://doi.org/c63h8h
-  image: https://bayesomicslab.github.io/images/cyrene.png
-  tags:
-  - computational biology
-  - regulatory genomics
-- id: 10.1142/9789814583220_0002
-  title: TUMOR HAPLOTYPE ASSEMBLY ALGORITHMS FOR CANCER GENOMICS
-  authors:
-  - DEREK AGUIAR
-  - WENDY S. W. WONG
-  - SORIN ISTRAIL
-  publisher: Biocomputing 2014
-  date: '2013-11-01'
-  link: https://doi.org/gp6v79
-  image: https://bayesomicslab.github.io/images/tumorhap.png
-  tags:
-  - computational biology
-  - algorithms
-  - graph theory
-- id: 10.1093/bioinformatics/bts234
-  title: 'DELISHUS: an efficient and exact algorithm for genome-wide detection of
-    deletion polymorphism in autism'
-  authors:
-  - Derek Aguiar
-  - "Bjarni V. Halld\xF3rsson"
-  - Eric M. Morrow
-  - Sorin Istrail
-  publisher: Bioinformatics
-  date: '2012-06-09'
-  link: https://doi.org/f329w6
-  image: https://bayesomicslab.github.io/images/delish.png
-  tags:
-  - computational biology
-  - algorithms
-  - graph theory
+  - Daniel S Himmelstein
+  - Ariel Rodriguez Romero
+  - Jacob G Levernier
+  - Thomas Anthony Munro
+  - Stephen Reid McLaughlin
+  - Bastian Greshake Tzovaras
+  - Casey S Greene
+  publisher: eLife
+  date: '2018-03-01'
+  link: https://doi.org/ckcj
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  extra-links:
+  - type: preprint
+    link: https://doi.org/10.7287/peerj.preprints.3100v1
+  - type: manubot
+    link: https://greenelab.github.io/scihub-manuscript/
+  - type: source
+    link: https://github.com/greenelab/scihub-manuscript
+    text: Manuscript source
+  - type: source
+    link: https://github.com/greenelab/scihub
+    text: Analyses source

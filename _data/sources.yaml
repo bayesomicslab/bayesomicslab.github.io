@@ -1,129 +1,33 @@
-- id: 10.1089/cmb.2012.0084
-  image: https://www.derekaguiar.com/images/hcgraph.png
+- id: doi:10.1016/j.csbj.2020.05.017
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  date: 2020-6-2
+  extra-links:
+    - type: manubot
+      link: https://greenelab.github.io/knowledge-graph-review/
   tags:
-    - computational biology
-    - algorithms
-    - graph theory
+    - knowledge graphs
 
-- id: 10.1161/CIRCULATIONAHA.121.054285
-  image: https://bayesomicslab.github.io/images/circulation_p.png
-  tags:
-    - computational biology
-    - machine learning
-    - immunology
-    
-- id: 10.1145/3462757.3466101
-  image: https://bayesomicslab.github.io/images/icail_small.png
-  tags:
-    - machine learning
-    - law
-    
-- id: 10.1101/2021.05.20.444959
-  image: https://bayesomicslab.github.io/images/roberta_meth.png
-  tags:
-    - computational biology
-    
-- id: 10.1093/bioinformatics/btaa318
-  image: https://bayesomicslab.github.io/images/exp_predict.png
-  tags:
-    - computational biology
-    - machine learning
-    
-- id: 10.1038/s41467-018-03402-w
-  image: https://bayesomicslab.github.io/images/biisq.png
-  tags:
-    - computational biology
-    - machine learning
-    
-- id: 10.1109/CCWC54503.2022.9720799
-  image: https://bayesomicslab.github.io/images/custout.png
-  tags:
-    - machine learning
-    - time series
-    - outage prediction
-    
-- id: 10.1093/bioinformatics/btt213
-  image: https://bayesomicslab.github.io/images/compassgraph.png
-  tags:
-    - computational biology
-    - algorithms
-    - graph theory
-    
-- id: 10.1186/2041-9139-4-16
-  tags:
-    - computational biology
-    
-- id: 10.1371/journal.pone.0105097
-  tags:
-    - computational biology
-    
-- id: 10.1089/cmb.2010.0288
-  image: https://bayesomicslab.github.io/images/clarkconsistgraph.png
-  tags:
-    - computational biology
-    - algorithms
-    - graph theory
-    
-- id: 10.1007/978-3-319-05269-4_1
-  image: https://bayesomicslab.github.io/images/tractatus.png
-  tags:
-    - computational biology
-    - algorithms
-    - graph theory
-    
-- id: 10.1142/9789814335058_0010
-  image: https://bayesomicslab.github.io/images/pphap.png
-  tags:
-    - computational biology
-    - algorithms
-    - graph theory
-    
-- id: 10.1007/978-1-60761-854-6_22
-  image: https://bayesomicslab.github.io/images/cyrene.png
-  tags:
-    - computational biology
-    - regulatory genomics
+- id: doi:10.1371/journal.pcbi.1007128
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  repo: greenelab/meta-review
+  extra-links:
+    - type: manubot
+      link: https://greenelab.github.io/meta-review/
+    - type: source
+      link: https://github.com/greenelab/meta-review
+    - type: website
+      link: http://manubot.org/
 
-- id: 10.1142/9789814583220_0002
-  image: https://bayesomicslab.github.io/images/tumorhap.png
-  tags:
-    - computational biology
-    - algorithms
-    - graph theory
-
-- id: 10.1093/bioinformatics/bts234
-  image: https://bayesomicslab.github.io/images/delish.png
-  tags:
-    - computational biology
-    - algorithms
-    - graph theory
-
-
-
-# - id: 
-  # image: 
-  # tags:
-    # - computational biology
-    # - algorithms
-    # - graph theory
-    # - machine learning
-    # - 
-
-
-
-
-# - id: doi:10.7554/eLife.32822
-  # image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  # date: 2020-6-2
-  # repo: greenelab/meta-review
-  # extra-links:
-    # - type: preprint
-      # link: https://doi.org/10.7287/peerj.preprints.3100v1
-    # - type: manubot
-      # link: https://greenelab.github.io/scihub-manuscript/
-    # - type: source
-      # link: https://github.com/greenelab/scihub-manuscript
-      # text: Manuscript source
-    # - type: source
-      # link: https://github.com/greenelab/scihub
-      # text: Analyses source
+- id: doi:10.7554/eLife.32822
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  extra-links:
+    - type: preprint
+      link: https://doi.org/10.7287/peerj.preprints.3100v1
+    - type: manubot
+      link: https://greenelab.github.io/scihub-manuscript/
+    - type: source
+      link: https://github.com/greenelab/scihub-manuscript
+      text: Manuscript source
+    - type: source
+      link: https://github.com/greenelab/scihub
+      text: Analyses source

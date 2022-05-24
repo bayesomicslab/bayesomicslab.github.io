@@ -28,17 +28,11 @@ We focus on Bayesian machine learning and combinatorial methods development acro
 {%
   include link.html
   link="publications"
-  text="See what we've published"
+  text="See publications"
   icon="fas fa-arrow-right"
   flip=true
 %}
-{%
-  include link.html
-  link="research"
-  text="See some active research projects"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
+
 {%
   include link.html
   link="tools"
@@ -46,6 +40,7 @@ We focus on Bayesian machine learning and combinatorial methods development acro
   icon="fas fa-arrow-right"
   flip=true
 %}
+
 {:.center}
 {% endcapture %}
 

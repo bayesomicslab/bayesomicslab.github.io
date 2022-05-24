@@ -2,7 +2,7 @@
 name: Devin McConnell
 image: images/devin.jpg
 description: M.S. Student
-role: ms
+role: masters
 group: alum
 
 

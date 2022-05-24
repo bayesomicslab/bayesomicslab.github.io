@@ -1,31 +1,27 @@
 ### basic settings
 
 # site properties and page defaults
-title: EL GATO Lab
-subtitle: at the University of Connecticut
-description: Website for the Efficient Learning and Graph Algorithm Techniques for Omics (EL GATO) lab
+title: Lab Website Template
+description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: /
+baseurl: /lab-website-template
 
 # site social media and other links
 links:
-  email: derek.aguiar@uconn.edu
-  google-scholar: https://scholar.google.com/citations?user=kXRSW2QAAAAJ&hl=en&oi=ao
-  github: https://github.com/bayesomicslab
-  #twitter: YourLabHandle
-  #instagram: YourLabHandle
-  #youtube: YourLabChannel
+  email: jane.smith@your-lab.com
+  google-scholar: Jane Smith
+  github: your-lab
+  twitter: YourLabHandle
+  instagram: YourLabHandle
+  youtube: YourLabChannel
 
 ### advanced settings
 
 # automatic citations
 auto-cite:
   plugins:
-#    - name: orcid
-#      input:
-#        - ../_data/orcid.yaml
     - name: sources
       input:
         - ../_data/sources.yaml

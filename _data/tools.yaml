@@ -13,7 +13,7 @@
   group: computational biology
   image: images/tumorhap.png
   link: https://www.brown.edu/Research/Istrail_Lab/hapcompass.php
-  description: HapCompass: fast cycle basis algorithms for accurate diploid and polyploid haplotype assembly.
+  description: HapCompass - fast cycle basis algorithms for accurate diploid and polyploid haplotype assembly.
   tags:
     - software
 
@@ -23,7 +23,7 @@
   group: computational biology
   image: images/tractatus.png
   link: https://www.brown.edu/Research/Istrail_Lab/tractatus.php
-  description: Tractatus: an exact and subquadratic algorithm for inferring identity-by-descent multi-shared haplotype tracts.
+  description: Tractatus - an exact and subquadratic algorithm for inferring identity-by-descent multi-shared haplotype tracts.
   tags:
     - software
 
@@ -33,7 +33,7 @@
   group: computational biology
   image: images/nematostella.png
   link: https://evodevojournal.biomedcentral.com/articles/10.1186/2041-9139-4-16#App1
-  description: A quantitative reference transcriptome for Nematostella vectensis earlyembryonic development: a pipeline for de novo assembly in emergingmodel systems.
+  description: A quantitative reference transcriptome for Nematostella vectensis earlyembryonic development - a pipeline for de novo assembly in emergingmodel systems.
   tags:
     - software
 
@@ -43,7 +43,7 @@
   group: computational biology
   image: images/delish.png
   link: https://www.brown.edu/Research/Istrail_Lab/del_dl.php
-  description: DELISHUS: an e cient and exact algorithm for genome-wide detection of deletion polymorphism in autism.
+  description: DELISHUS - an e cient and exact algorithm for genome-wide detection of deletion polymorphism in autism.
   tags:
     - software
 

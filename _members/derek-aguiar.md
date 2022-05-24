@@ -2,7 +2,7 @@
 name: Derek Aguiar
 image: images/daguiar_c.png
 description: PI
-role: PI
+role: pi
 aliases:
   - Prof. Derek
 links:

@@ -7,7 +7,7 @@ title: Home
 The EL GATO Lab at UConn was founded in 2018 and includes researchers with a wide range of interests and specialties. Our research aims to develop probabilistic machine learning models, combinatorial algorithms, and scalable inference methods to better understand high-dimensional data, particularly genomics and genetics data applied to complex disease.
 
 
-{% include section.html full=true %}
+{% include section.html full=false %}
 
 {% include banner.html image="images/lab_picture_p.png" %}
 
@@ -22,7 +22,7 @@ We focus on Bayesian machine learning and combinatorial methods development acro
   link="team"
   text="Meet our team"
   icon="fas fa-arrow-right"
-  flip=true
+  flip=false
 %}
 
 {%

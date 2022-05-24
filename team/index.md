@@ -22,9 +22,8 @@ Our team includes graduate, undergraduate, and even high school researchers! Fin
 {%
   include list.html
   data="members"
-  group="current"
   component="portrait"
-  filters="role: postdoc"
+  filters="role: postdoc; group:"current""
 %}
 {%
   include list.html

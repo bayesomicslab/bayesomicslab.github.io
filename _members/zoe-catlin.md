@@ -1,6 +1,6 @@
 ---
 name: Zoe
-image: images/zoe2.png
+image: images/zoe2.jpg
 description: Good girl
 role: cat
 group: current

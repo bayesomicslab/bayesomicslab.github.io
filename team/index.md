@@ -27,7 +27,7 @@ Our team includes graduate, undergraduate, and even high school researchers! Fin
 %}
 {%
   include list.html
-  group="current"
+  data="members"
   component="portrait"
   filters="role: phd, group: current"
 %}
@@ -52,14 +52,12 @@ Our team includes graduate, undergraduate, and even high school researchers! Fin
 {%
   include list.html
   data="members"
-  group="current"
   component="portrait"
   filters="role: dog, group: current"
 %}
 {%
   include list.html
   data="members"
-  group="current"
   component="portrait"
   filters="role: cat, group: current"
 %}

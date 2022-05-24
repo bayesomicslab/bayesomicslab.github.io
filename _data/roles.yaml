@@ -9,15 +9,23 @@ postdoc:
 phd:
   icon: fas fa-graduation-cap
   text: PhD Student
-
+  
+masters:
+  icon: fas fa-code
+  text: Masters Student
+  
 undergrad:
   icon: fas fa-user-graduate
   text: Undergraduate Student
 
-programmer:
-  icon: fas fa-code
-  text: Programmer
+highschool:
+  icon: fas fa-school
+  text: High School Researcher
 
-mascot:
+dog:
   icon: fas fa-dog
+  text: Mascot
+  
+cat:
+  icon: fas fa-cat
   text: Mascot

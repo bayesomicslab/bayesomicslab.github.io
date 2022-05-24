@@ -1,7 +1,7 @@
 ---
 name: Devin McConnell
-image: images/member.jpg
-description: M.S. Studnet
+image: images/devin.jpg
+description: M.S. Student
 role: ms
 group: alum
 

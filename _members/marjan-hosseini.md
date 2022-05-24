@@ -3,6 +3,7 @@ name: Marjan Hosseini
 image: images/marjan.jpg
 description: Ph.D. Student
 role: phd
+group: current
 links:
   home-page: https://www.linkedin.com/in/marjhosseini/
   email: marjan.hosseini@uconn.edu

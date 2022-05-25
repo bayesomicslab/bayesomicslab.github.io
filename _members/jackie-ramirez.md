@@ -7,7 +7,7 @@ group: current
 links:
   home-page: www.linkedin.com/in/ltjackieramirez
   email: jackie.ramirez@uconn.edu
-  github: Marjan-Hosseini
+  github: jdramirez1
 ---
 
 Jackie is an M.Eng. student in the EL GATO Lab.

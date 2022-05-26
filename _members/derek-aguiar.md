@@ -4,7 +4,7 @@ image: images/daguiar_c.png
 description: PI
 role: pi
 links:
-  home-page: www.derekaguiar.com
+  home-page: https://www.derekaguiar.com
   email: derek.aguiar@uconn.edu
   github: rapturous
 ---

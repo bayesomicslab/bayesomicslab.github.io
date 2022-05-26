@@ -1,5 +1,5 @@
 ---
-name: Sybille Legitime
+name: Sybille Légitime
 image: images/sybille.jpg
 description: Masters Student
 role: masters

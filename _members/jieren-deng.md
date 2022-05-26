@@ -5,7 +5,7 @@ description: Ph.D. Student
 role: phd
 group: current
 links:
-  home-page: www.jieren-deng.com/
+  home-page: https://www.jieren-deng.com
   email: jieren.deng@uconn.edu
   github: jrdeng-uconn
 ---

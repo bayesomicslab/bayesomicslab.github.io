@@ -5,7 +5,7 @@ description: Masters Student
 role: masters
 group: current
 links:
-  home-page: www.linkedin.com/in/slegitime/
+  home-page: https://www.linkedin.com/in/slegitime/
   email: sybille.legitime@uconn.edu
   github: smlegitime
 ---

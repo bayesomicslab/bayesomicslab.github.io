@@ -5,7 +5,7 @@ description: Ph.D. Student Collaborator
 role: phdcollab
 group: current
 links:
-  home-page: www.researchgate.net/profile/Piyush-Shrivastav-2
+  home-page: https://www.researchgate.net/profile/Piyush-Shrivastav-2
   email: piyush.shrivastav@uconn.edu
   github: kunwarji
 ---

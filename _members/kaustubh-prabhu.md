@@ -5,7 +5,7 @@ description: Masters Student
 role: masters
 group: alum
 links:
-  home-page: www.linkedin.com/in/kaustubh-prabhu-2606b9129
+  home-page: https://www.linkedin.com/in/kaustubh-prabhu-2606b9129
   email: kaustubh.prabhu@uconn.edu 
   github: Kaustubhprabhu98
 ---

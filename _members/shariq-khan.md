@@ -5,7 +5,7 @@ description: Masters Student
 role: masters
 group: alum
 links:
-  home-page: www.linkedin.com/in/shariq-ahmad-khan/
+  home-page: https://www.linkedin.com/in/shariq-ahmad-khan/
   email: shariq.a.khan@uconn.edu 
   github: shariqak14
 ---

@@ -5,7 +5,7 @@ description: Undergraduate Researcher
 role: undergrad
 group: current
 links:
-  home-page: www.linkedin.com/in/nicolas-david-galindo-carvajal-a79a56207/
+  home-page: https://www.linkedin.com/in/nicolas-david-galindo-carvajal-a79a56207/
   email: ngalindoc@unal.edu.co
   github: NickGalindo
 ---

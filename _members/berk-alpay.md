@@ -5,7 +5,7 @@ description: Undergraduate Researcher
 role: undergrad
 group: alum
 links:
-  home-page: www.berkalpay.com/
+  home-page: https://www.berkalpay.com/
   email: berk@uconn.edu  
   github: berkalpay
 ---

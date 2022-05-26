@@ -5,7 +5,7 @@ description: Ph.D. Student
 role: phd
 group: current
 links:
-  home-page: linkedin.com/in/marjhosseini/
+  home-page: https://linkedin.com/in/marjhosseini/
   email: marjan.hosseini@uconn.edu
   github: Marjan-Hosseini
 ---

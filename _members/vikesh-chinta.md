@@ -5,7 +5,7 @@ description: Undergraduate Researcher
 role: undergrad
 group: current
 links:
-  email: vikesh.chinta@uconn.edu
+  email: https://vikesh.chinta@uconn.edu
   github: VikeshChin
 ---
 

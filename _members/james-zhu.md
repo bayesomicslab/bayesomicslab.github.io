@@ -5,7 +5,7 @@ description: Undergraduate Researcher
 role: undergrad
 group: alum
 links:
-  home-page: www.linkedin.com/in/18jameszhu/
+  home-page: https://www.linkedin.com/in/18jameszhu/
   email: james.zhu@uconn.edu
   github: jameszhu1
 ---

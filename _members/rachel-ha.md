@@ -5,7 +5,7 @@ description: High School Reseacher
 role: highschool
 group: alum
 links:
-  home-page: www.linkedin.com/in/rachel-ha-8a3629211/
+  home-page: https://www.linkedin.com/in/rachel-ha-8a3629211/
   email: rachelha54@gmail.com
   github: rachelha54
 ---

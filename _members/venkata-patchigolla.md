@@ -5,7 +5,7 @@ description: Undergraduate Researcher
 role: undergrad
 group: current
 links:
-  home-page: www.linkedin.com/in/venkata-patchigolla-0a0a66214/
+  home-page: https://www.linkedin.com/in/venkata-patchigolla-0a0a66214/
   email: venkata.patchigolla@uconn.edu 
   github: venkata14
 ---

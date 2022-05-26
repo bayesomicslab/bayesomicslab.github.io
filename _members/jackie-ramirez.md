@@ -5,7 +5,7 @@ description: Masters Student
 role: masters
 group: current
 links:
-  home-page: www.linkedin.com/in/ltjackieramirez
+  home-page: https://www.linkedin.com/in/ltjackieramirez
   email: jackie.ramirez@uconn.edu
   github: jdramirez1
 ---

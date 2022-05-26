@@ -5,7 +5,7 @@ description: Ph.D. Student Collaborator
 role: phdcollab
 group: alum
 links:
-  home-page: www.linkedin.com/in/dpzhu/
+  home-page: https://www.linkedin.com/in/dpzhu/
   email: dongping.zhu@uconn.edu
 ---
 

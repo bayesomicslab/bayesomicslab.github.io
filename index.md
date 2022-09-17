@@ -4,7 +4,7 @@ title: Home
 
 # Blending algorithms and Bayesian machine learning in computational biology.
 
-The EL GATO Lab at UConn was founded in 2018 and includes researchers with a wide range of interests and specialties. Our research aims to develop probabilistic machine learning models, combinatorial algorithms, and scalable inference methods to better understand high-dimensional data, particularly genomics and genetics data applied to complex disease.
+The Efficient Learning and Graph Algorithm Techniques for Omics (EL GATO) Lab at UConn was founded in 2018 and includes researchers with a wide range of interests and specialties. Our research aims to develop probabilistic machine learning models, combinatorial algorithms, and scalable inference methods to better understand high-dimensional data, particularly genomics and genetics data applied to complex disease.
 
 
 {% include section.html full=false %}

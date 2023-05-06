@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Our team includes graduate, undergraduate, and even high school researchers! Find our current lab members and alumni below.
+Our team includes graduate, undergraduate, and high school researchers! Find our current lab members and alumni below.
 
 {% include section.html %}
 

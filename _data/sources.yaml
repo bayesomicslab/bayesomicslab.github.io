@@ -98,7 +98,10 @@
     - algorithms
     - graph theory
 
-
+- id: 10.1016/j.drudis.2022.103364
+  image: https://bayesomicslab.github.io/images/alpay_drug.png
+  tags:
+    - computational biology
 
 # - id: 
   # image: 

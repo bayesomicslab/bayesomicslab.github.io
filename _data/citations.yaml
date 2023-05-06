@@ -259,3 +259,16 @@
   - computational biology
   - algorithms
   - graph theory
+- id: 10.1016/j.drudis.2022.103364
+  title: Evaluating molecular fingerprint-based models of drug side effects against
+    a statistical control
+  authors:
+  - Berk A. Alpay
+  - Mark Gosink
+  - Derek Aguiar
+  publisher: Drug Discovery Today
+  date: '2022-11-01'
+  link: https://doi.org/gr7fv5
+  image: https://bayesomicslab.github.io/images/alpay_drug.png
+  tags:
+  - computational biology

@@ -54,7 +54,7 @@ google-scholar:
   icon: fab fa-google
   text: Google Scholar
   tooltip: Google Scholar
-  link: https://scholar.google.com/citations?hl=en&user=$LINK
+  link: https://scholar.google.com/citations?hl=en&user=kXRSW2QAAAAJ&view_op=list_works&sortby=pubdate
 
 github:
   icon: fab fa-github

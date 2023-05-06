@@ -3,10 +3,10 @@ name: Vikesh Chinta
 image: images/sadhusky.png
 description: Undergraduate Researcher
 role: undergrad
-group: current
+group: alum
 links:
   email: https://vikesh.chinta@uconn.edu
   github: VikeshChin
 ---
 
-Vikesh is an undergraduate researcher in the EL GATO Lab.
+Vikesh was an undergraduate researcher in the EL GATO Lab.

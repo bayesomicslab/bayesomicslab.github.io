@@ -3,11 +3,11 @@ name: Sybille Légitime
 image: images/sybille.jpg
 description: Masters Student
 role: masters
-group: current
+group: alum
 links:
   home-page: https://www.linkedin.com/in/slegitime/
   email: sybille.legitime@uconn.edu
   github: smlegitime
 ---
 
-Sybille is a M.S. student in the EL GATO Lab.
+Sybille graduated from the EL GATO Lab with an M.S. in 2022.

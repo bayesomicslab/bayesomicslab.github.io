@@ -3,7 +3,7 @@ name: Kingsley Udeh
 image: images/Kingsley-Udeh-2.jpg
 description: Ph.D. Student
 role: phd
-group: current
+group: alum
 links:
   home-page: https://www.linkedin.com/in/kingsleyudeh
   email: kingsley.udeh@uconn.edu
@@ -11,4 +11,4 @@ links:
 
 ---
 
-Kingsley is a PhD student in the EL GATO Lab.
+Kingsley graduated from the EL GATO Lab with a PhD in 2022.

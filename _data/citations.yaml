@@ -37,9 +37,9 @@
   - Zhiyi Chi
   - Derek Aguiar
   - Jinbo Bi
-  publisher: arXiv
-  date: '2022-01-01'
-  link: https://doi.org/gsgnmr
+  publisher: ICLR
+  date: '2023-02-01'
+  link: https://openreview.net/forum?id=JjCAdMUlu9v
   image: https://bayesomicslab.github.io/images/goftest.png
   tags:
   - machine learning
@@ -70,7 +70,7 @@
   - "Rachel J O\u2019Neill"
   - Zhiyi Chi
   - Derek Aguiar
-  publisher: Bioinformatics
+  publisher: ISMB and Bioinformatics
   date: '2023-06-01'
   link: https://doi.org/gsgnmt
   image: https://bayesomicslab.github.io/images/nonb_large.png
@@ -85,8 +85,8 @@
   - Hao Tian
   - Zhihong Pan
   - Derek Aguiar
-  publisher: arXiv
-  date: '2023-01-01'
+  publisher: ICIP
+  date: '2023-03-01'
   link: https://doi.org/gsgnmv
   image: https://bayesomicslab.github.io/images/ssdistillation.png
   tags:

@@ -1,3 +1,39 @@
+- id: 10.48550/arXiv.2306.08251
+  image: https://bayesomicslab.github.io/images/bokeh.png
+  tags:
+    - machine learning
+    - computer vision
+
+- id: 10.48550/arXiv.2211.07105
+  image: https://bayesomicslab.github.io/images/bamie_large.png
+  tags:
+    - computational biology
+    - machine learning
+    - algorithms
+
+- id: 10.48550/arXiv.2210.06546
+  image: https://bayesomicslab.github.io/images/goftest.png
+  tags:
+    - machine learning
+    - computer vision
+
+- id: 10.1016/j.osnem.2023.100249
+  image: https://bayesomicslab.github.io/images/fakenews.png
+  tags:
+    - machine learning
+
+- id: 10.1093/bioinformatics/btad220
+  image: https://bayesomicslab.github.io/images/nonb_large.png
+  tags:
+    - computational biology
+    - machine learning
+
+- id: 10.48550/arXiv.2303.05015
+  image: https://bayesomicslab.github.io/images/ssdistillation.png
+  tags:
+    - machine learning
+    - computer vision
+
 - id: 10.1089/cmb.2012.0084
   image: https://www.derekaguiar.com/images/hcgraph.png
   tags:

@@ -1,6 +1,97 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 10.48550/arXiv.2306.08251
+  title: 'GBSD: Generative Bokeh with Stage Diffusion'
+  authors:
+  - Jieren Deng
+  - Xin Zhou
+  - Hao Tian
+  - Zhihong Pan
+  - Derek Aguiar
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/gsgnmp
+  image: https://bayesomicslab.github.io/images/bokeh.png
+  tags:
+  - machine learning
+  - computer vision
+- id: 10.48550/arXiv.2211.07105
+  title: Bayesian Reconstruction and Differential Testing of Excised mRNA
+  authors:
+  - Marjan Hosseini
+  - Devin McConnell
+  - Derek Aguiar
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/gsgnmq
+  image: https://bayesomicslab.github.io/images/bamie_large.png
+  tags:
+  - computational biology
+  - machine learning
+  - algorithms
+- id: 10.48550/arXiv.2210.06546
+  title: Auto-Encoding Goodness of Fit
+  authors:
+  - Aaron Palmer
+  - Zhiyi Chi
+  - Derek Aguiar
+  - Jinbo Bi
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/gsgnmr
+  image: https://bayesomicslab.github.io/images/goftest.png
+  tags:
+  - machine learning
+  - computer vision
+- id: 10.1016/j.osnem.2023.100249
+  title: Interpretable fake news detection with topic and deep variational models
+  authors:
+  - Marjan Hosseini
+  - Alireza Javadian Sabet
+  - Suining He
+  - Derek Aguiar
+  publisher: Online Social Networks and Media
+  date: '2023-07-01'
+  link: https://doi.org/gsgnms
+  image: https://bayesomicslab.github.io/images/fakenews.png
+  tags:
+  - machine learning
+- id: 10.1093/bioinformatics/btad220
+  title: Deep statistical modelling of nanopore sequencing translocation times reveals
+    latent non-B DNA structures
+  authors:
+  - Marjan Hosseini
+  - Aaron Palmer
+  - William Manka
+  - Patrick G S Grady
+  - Venkata Patchigolla
+  - Jinbo Bi
+  - "Rachel J O\u2019Neill"
+  - Zhiyi Chi
+  - Derek Aguiar
+  publisher: Bioinformatics
+  date: '2023-06-01'
+  link: https://doi.org/gsgnmt
+  image: https://bayesomicslab.github.io/images/nonb_large.png
+  tags:
+  - computational biology
+  - machine learning
+- id: 10.48550/arXiv.2303.05015
+  title: Smooth and Stepwise Self-Distillation for Object Detection
+  authors:
+  - Jieren Deng
+  - Xin Zhou
+  - Hao Tian
+  - Zhihong Pan
+  - Derek Aguiar
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/gsgnmv
+  image: https://bayesomicslab.github.io/images/ssdistillation.png
+  tags:
+  - machine learning
+  - computer vision
 - id: 10.1089/cmb.2012.0084
   title: 'HapCompass: A Fast Cycle Basis Algorithm for Accurate Haplotype Assembly
     of Sequence Data'

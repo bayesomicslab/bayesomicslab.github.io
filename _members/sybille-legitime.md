@@ -10,4 +10,4 @@ links:
   github: smlegitime
 ---
 
-Sybille graduated from the EL GATO Lab with an M.S. in 2022.
+Sybille graduated from the EL GATO Lab with an M.S. in 2022 and is now a PhD student at Brown University.

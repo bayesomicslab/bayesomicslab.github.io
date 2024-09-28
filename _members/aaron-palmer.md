@@ -1,8 +1,8 @@
 ---
 name: Aaron Palmer
 image: images/aaron.jpg
-description: Ph.D. Student Collaborator
-role: phdcollab
+description: Research Scientist
+role: postdoc
 group: current
 links:
   home-page: https://www.linkedin.com/in/aaron-palmer-73a47b11/
@@ -10,4 +10,4 @@ links:
   github: k05ch31
 ---
 
-Aaron is a PhD student of Dr. Jinbo Bi and collaborator of the EL GATO Lab.
+Aaron is a postdoctoral research scientist in the EL GATO Lab.

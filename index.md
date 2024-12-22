@@ -24,8 +24,7 @@ The Efficient Learning and Graph Algorithm Techniques for Omics (EL GATO) Lab at
 {%
   include list.html
   data="news"
-  component="card"
-  style="small"
+  component="post-excerpt"
 %}
 
 

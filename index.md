@@ -4,14 +4,33 @@ title: Home
 
 # Blending algorithms and Bayesian machine learning in computational biology.
 
-The Efficient Learning and Graph Algorithm Techniques for Omics (EL GATO) Lab at UConn was founded in 2018 and includes researchers with a wide range of interests and specialties. Our research aims to develop probabilistic machine learning models, combinatorial algorithms, and scalable inference methods to better understand high-dimensional data, particularly genomics and genetics data applied to complex disease. See this [recent article about the lab.](https://today.uconn.edu/2024/10/meet-the-researcher-derek-aguiar-coe)
+The Efficient Learning and Graph Algorithm Techniques for Omics (EL GATO) Lab at UConn was founded in 2018 and includes researchers with a wide range of interests and specialties. Our research aims to develop probabilistic machine learning models, combinatorial algorithms, and scalable inference methods to better understand high-dimensional data, particularly genomics and genetics data applied to complex disease. 
 
 {% include section.html full=false %}
 
-{% include banner.html image="images/elgato_lab_2024.jpg" %}
+{%
+  include figure.html
+  image="images/elgato_lab_2024.jpg"
+  caption="EL GATO Lab and Friends at our 2024 BBQ"
+  link="team"
+  width="100%"
+%}
 
 {% include section.html %}
 
+
+## Some recent news
+
+{%
+  include list.html
+  data="news"
+  component="card"
+  filter="date.between?('2020', '2025')"
+  style="small"
+%}
+
+
+{% include section.html %}
 
 {% capture text %}
 We focus on Bayesian machine learning and combinatorial methods development across a wide range of areas. 

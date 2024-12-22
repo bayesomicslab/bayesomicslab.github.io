@@ -1,5 +1,5 @@
 ---
-title: CCMB Seminar: Derek Aguiar
+title: CCMB Seminar, Derek Aguiar
 author: Linus Catlin
 member: linus-catlin
 link: "https://www.youtube.com/watch?v=Yb1YYrvfE3M"

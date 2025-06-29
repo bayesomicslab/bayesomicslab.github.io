@@ -1,5 +1,7 @@
 ---
 title: Home
+image_sliders:
+  - slider2
 ---
 
 # Blending algorithms and Bayesian machine learning in computational biology.

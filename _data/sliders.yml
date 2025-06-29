@@ -1,0 +1,53 @@
+- selector: slider1
+  bullets: false
+  captions: true
+  images:
+    - src: /img/1.jpg
+      alt: Minimum required attributes
+    - data-src: /img/2.jpg
+      alt: Use data-src for on-demand loading
+    - data-src: /img/3.jpg
+      data-src-2x: /img/3@2x.jpg
+      alt: Use data-src-2x for HiDPI devices
+    - src: /img/4.jpg
+      alt: Links work too
+      href: https://github.com/jekylltools/jekyll-ideal-image-slider-include
+  settings:
+    height: 400
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
+
+- selector: slider2
+  bullets: true
+  captions: true
+  images:
+    - src: /images/elgato_lab_2024.jpg
+      title: EL GATO Lab and Friends at our 2024 BBQ
+      alt: EL GATO Lab and Friends at our 2024 BBQ
+    - data-src: /images/isi_2024.jpg
+      title: 2nd Annual Intelligent Systems for Immunology Meeting (2024) 
+      alt: 2nd Annual Intelligent Systems for Immunology Meeting (2024)
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: slider3
+  images:
+    - src: /img/1.jpg
+      alt: image one
+    - src: /img/2.jpg
+      alt: image two
+    - src: /img/3.jpg
+      alt: image three
+    - src: /img/4.jpg
+      alt: image four
+  settings:
+    height: "'auto'"
+    disableNav: true

@@ -8,13 +8,7 @@ The Efficient Learning and Graph Algorithm Techniques for Omics (EL GATO) Lab at
 
 {% include section.html full=false %}
 
-{%
-  include figure.html
-  image="images/elgato_lab_2024.jpg"
-  caption="EL GATO Lab and Friends at our 2024 BBQ"
-  link="team"
-  width="100%"
-%}
+{% include slider.html selector="slider2" %}
 
 {% include section.html %}
 

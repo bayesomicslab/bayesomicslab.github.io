@@ -31,7 +31,7 @@
     - src: /images/elgato_lab_2024.jpg
       title: EL GATO Lab and Friends at our 2024 BBQ
       alt: EL GATO Lab and Friends at our 2024 BBQ
-    - data-src: /images/isi_2024.jpg
+    - src: /images/isi_2024.jpg
       title: 2nd Annual Intelligent Systems for Immunology Meeting (2024) 
       alt: 2nd Annual Intelligent Systems for Immunology Meeting (2024)
   settings:

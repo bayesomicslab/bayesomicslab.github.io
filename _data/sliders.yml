@@ -29,15 +29,15 @@
   captions: true
   images:
     - src: /images/elgato_lab_2024.jpg
-      title: EL GATO Lab and Friends at our 2024 BBQ
-      alt: EL GATO Lab and Friends at our 2024 BBQ
+      title: EL GATO Lab and Friends
+      alt: at our 2024 Lab BBQ
     - src: /images/isi_2024.jpg
-      title: 2nd Annual Intelligent Systems for Immunology Meeting (2024) 
-      alt: 2nd Annual Intelligent Systems for Immunology Meeting (2024)
+      title: 2nd Annual Intelligent Systems for Immunology Meeting
+      alt: In 2024, the EL GATO (Computing) and Beiyan Zhou (Immunology) Labs held the joint collaborative 2nd Annual ISI Meeting
   settings:
-    height: "'auto'"
+    height: 1200
     effect: "'fade'"
-
+ 
 - selector: slider3
   images:
     - src: /img/1.jpg

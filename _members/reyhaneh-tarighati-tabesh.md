@@ -2,7 +2,7 @@
 name: Reyhaneh Tarighati Tabesh
 image: images/reyhaneh.jpg
 description: Research Assistant
-role: phd
+role: ra
 group: current
 links:
   home-page: https://www.linkedin.com/in/reyhaneh-t-tabesh-202589148/

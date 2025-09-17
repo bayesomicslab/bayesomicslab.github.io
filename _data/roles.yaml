@@ -9,6 +9,10 @@ postdoc:
 phd:
   icon: fas fa-graduation-cap
   text: PhD Student
+
+ra:
+  icon: fas fa-graduation-cap
+  text: Research Assistant
   
 phdcollab:
   icon: fas fa-biking

@@ -1,7 +1,7 @@
 ---
 name: Reyhaneh Tarighati Tabesh
 image: images/reyhaneh.jpg
-description: Ph.D. Student
+description: Research Assistant
 role: phd
 group: current
 links:
@@ -10,4 +10,4 @@ links:
   github: reyhanehtt
 ---
 
-Reyhaneh is a PhD student in the EL GATO Lab.
+Reyhaneh is a Research Assistant in the EL GATO Lab.

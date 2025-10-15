@@ -35,6 +35,12 @@ Our team includes graduate, undergraduate, and high school researchers! Find our
   include list.html
   data="members"
   component="portrait"
+  filters="role: ra, group: current"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: masters, group: current"
 %}
 {%
